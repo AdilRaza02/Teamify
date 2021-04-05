@@ -10,6 +10,7 @@ const routes = [
   { name: "Home", path: "/", component: Home },
   { name: "TeamDraw", path: "/draw", component: Draw },
   { name: "Teams", path: "/teams", component: Teams },
+  { path: "/:pathMatch(.*)*", redirect: "/" },
 ];
 
 const router = new VueRouter({
