@@ -43,3 +43,6 @@ textarea {
   font-weight: normal !important;
   padding: 0.5rem 1rem !important;
 }
+.vff-footer .footer-inner-wrap {
+  background-color: hsla(0, 0%, 94.1%, 0.75) !important;
+}
