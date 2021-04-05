@@ -20,7 +20,7 @@ If I had more time I would have worked on the following points:
  -  Option to select different types of games and automatically creating the teams
  -  Brackets feature for teams (who will compete with whom)
  -  Pdf or excel download feature
- -  Responsive design testing accross all standard devices 
+ -  Responsive design testing across all standard devices 
 
 
 ## Developed Using
