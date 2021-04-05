@@ -30,6 +30,8 @@ If I had more time I would have worked on the following points:
 - Vue Router
 - Tailwindcss
 - manypixels.co (Illustrations)
+- avatars.dicebear (Avatar API)
+- project-name-generator (Random name generator)
 
 ## Project setup
 
