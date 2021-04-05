@@ -1,5 +1,9 @@
 # Teamify Challenge for Liechtenecker GmbH
 
+## Demo
+
+[Click here](https://teamify.netlify.app/)
+
 ## Development Process
 
 ### Brainstorming
