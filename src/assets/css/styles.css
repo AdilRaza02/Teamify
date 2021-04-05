@@ -24,6 +24,10 @@ body,
   color: #000 !important;
   font-weight: 600 !important;
 }
+.f-radios {
+  background-color: transparent !important;
+  font-weight: 500 i !important;
+}
 
 .f-answer input,
 textarea {
